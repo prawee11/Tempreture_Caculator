@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tute3_Simple Tempreture Calculator</string>
+    <string name="Hint">Input  Ur Tempreture</string>
+    <string name="RadCel">Celcius</string>
+    <string name="Farenhite">Farenhite</string>
+    <string name="btn">Calculate</string>
+    <string name="label">Answer</string>
+</resources>
